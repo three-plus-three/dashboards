@@ -1,0 +1,1 @@
+{"title":"设备负载 Topn","editable":false,"template":"rest/monitor_management/monitor_collection/device_load_topn","field":[{"type":"string","name":"kpi","missing":"cpu"},{"type":"string","name":"top_n","missing":"10"}]}
